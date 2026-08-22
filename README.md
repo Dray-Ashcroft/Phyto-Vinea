@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/repository-banner.png" alt="Phyto-Vinea Banner" width="100%">
+  <img src="assets/banner.png" alt="Phyto-Vinea Banner" width="100%">
 </p>
 
 # 🌿 Phyto-Vinea
