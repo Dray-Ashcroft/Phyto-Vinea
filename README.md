@@ -1,45 +1,42 @@
 <p align="center">
   <img src="assets/banner.png" alt="Phyto-Vinea Banner" width="100%">
-</p>
+  </p>
 
-# 🌿 Phyto-Vinea
+  # 🌿 Phyto-Vinea
 
-Interactive HTML simulator visualizing plant thigmotropism through touch perception, tendril coiling, and differential growth.
+  ### *Interactive Thigmotropism Simulator*
 
----
+  > An educational simulation exploring plant thigmotropism through mechanical touch perception, tendril coiling, and differential growth.
 
-## ✨ Features
+  **🌿 Plant Physiology · 🌀 Thigmotropism · 🧪 Auxin**
 
-* **Dynamic Growth:** Observe tendril coiling in response to mechanical contact.
-* **Interactive Support:** Position a support structure to trigger thigmotropic growth.
-* **Auxin Magnifier:** Visualize auxin redistribution.
-* **Responsive Design:** Optimized for desktop and mobile devices.
+  ---
 
----
+  ## ✦ Features
 
-## 🚀 Built & Hosting
+  **🌱 Dynamic Growth**  
+  Observe tendril coiling in response to mechanical contact.
 
-* **Repository:** GitHub
-* **Hosting:** GitHub Pages
+  **🪴 Interactive Support**  
+  Position a support structure to trigger thigmotropic growth.
 
----
+  **🧪 Auxin Visualization**  
+  Explore auxin redistribution during differential growth.
 
-## 🛠️ Credits & Acknowledgments
+  **📱 Responsive Design**  
+  Optimized for desktop and mobile devices.
 
-* **Claude Sonnet:** Code architecture.
-* **DeepSeek:** Code improvisation.
-* **OpenAI:** Scientific debugging, testing & logic optimization.
+  ---
 
----
+  ## ⚙️ Technology
 
-## 👤 Author
+  **HTML · CSS · JavaScript**
 
-* **Draven Ashcroft**
-  * M.Sc. Ag. Entomology, ASRB NET
-  * DIPS Chain of Institutions
+  **Source:** GitHub  
+  **Hosting:** GitHub Pages
 
----
+  ---
 
-## 📜 License
+  ## 📜 License
 
-GPL-3.0
+  **GNU General Public License v3.0 (GPL-3.0)**
