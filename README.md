@@ -1,42 +1,50 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Phyto-Vinea Banner" width="100%">
-  </p>
+  <img src="assets/banner.png" alt="Phyto-Vinea — Interactive Thigmotropism Simulator" width="100%">
+</p>
 
-  # 🌿 Phyto-Vinea
+# 🌿 Phyto-Vinea
 
-  ### *Interactive Thigmotropism Simulator*
+### *Interactive Thigmotropism Simulator*
 
-  > An educational simulation exploring plant thigmotropism through mechanical touch perception, tendril coiling, and differential growth.
+> **Phyto-Vinea** is an interactive visualization exploring **plant thigmotropism, mechanical touch perception, tendril coiling, and differential growth**.
+>
+🌿 **Plant Physiology** · 🌀 **Thigmotropism** · 🧪 **Auxin**
 
-  **🌿 Plant Physiology · 🌀 Thigmotropism · 🧪 Auxin**
+**🔬 [Explore the Simulation](YOUR-LINK-HERE)**
 
-  ---
+---
 
-  ## ✦ Features
+## ✦ Features
 
-  **🌱 Dynamic Growth**  
-  Observe tendril coiling in response to mechanical contact.
+**🌱 Dynamic Growth**  
+Observe tendril coiling in response to mechanical contact.
 
-  **🪴 Interactive Support**  
-  Position a support structure to trigger thigmotropic growth.
+**🪴 Interactive Support**  
+Position a support structure to trigger thigmotropic growth.
 
-  **🧪 Auxin Visualization**  
-  Explore auxin redistribution during differential growth.
+**🧪 Auxin Visualization**  
+Explore auxin redistribution during differential growth.
 
-  **📱 Responsive Design**  
-  Optimized for desktop and mobile devices.
+**📱 Responsive Design**  
+Optimized for modern desktop and mobile devices.
 
-  ---
+---
 
-  ## ⚙️ Technology
+## 🧬 Core Concepts
 
-  **HTML · CSS · JavaScript**
+**Thigmotropism · Mechanical Stimulus · Tendril Coiling · Auxin Redistribution · Differential Growth · Plant Physiology**
 
-  **Source:** GitHub  
-  **Hosting:** GitHub Pages
+---
 
-  ---
+## ⚙️ Technology
 
-  ## 📜 License
+**HTML · CSS · JavaScript**
 
-  **GNU General Public License v3.0 (GPL-3.0)**
+**Repository:** GitHub & Codeberg  
+**Hosting:** GitHub Pages
+
+---
+
+## 📜 License
+
+Distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
